@@ -68,5 +68,5 @@ public class Main {
                 break;
             default:
                 System.out.println("Недопустимое значение");
-                // Задание завершено
+                // Задание завершено(ДЗ исправлено)
         }}}
